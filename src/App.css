@@ -1,0 +1,11 @@
+@media screen and (min-width: 350px) {
+  .cards-list {
+    margin: 0 auto;
+    width: 500px;
+  }
+}
+
+.cards-list > p {
+  text-align: center;
+  font-weight: 500;
+}
