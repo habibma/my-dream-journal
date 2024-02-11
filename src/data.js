@@ -56,7 +56,7 @@ export default [
         certificationUrl: "https://www.freecodecamp.org/certification/fcc7531b96c-d130-4dc2-9be4-28ffc442083d/front-end-development-libraries",
         showcaseUrl: "https://codepen.io/Habib-Mote",
         startDate: "2023",
-        description: "What I need to do is practicing and practicing. I this stage, I want to find an Internship programm in one of the best companies in Europe",
+        description: "What I need to do is practicing and practicing. I this stage, I want to find an oppurtunity in one of the best companies in Europe",
         image: "lee-campbell-DtDlVpy-vvQ-unsplash.jpg"
     },
     {
